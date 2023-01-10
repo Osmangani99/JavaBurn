@@ -15,6 +15,8 @@ public class Loop {
 
            for (int i=0;i<5; i++){
                System.out.printf("The value of i is: %d\n",i);
+               System.out.println("Finally");
+               System.out.println("Finally I did it Ma sha Allah");
         }
     }
 }
