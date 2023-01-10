@@ -15,7 +15,5 @@ public class Scn {
 
         // Tell them what they entered
         System.out.println("You entered "+value);
-
-
     }
 }
